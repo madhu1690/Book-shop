@@ -6,12 +6,19 @@ by entering both book title and author name. The entered data are stored as a te
 add a saving script in the adding code. This system use the basic CRUD function in order manipulate the data by adding, reading, deleting, and updating. 
 The application is for educational purpose only, you are free to modify it as you fit your needs. The Simple Book Shop Management System was created as
 a basic coding structure of C++ that help beginners to learn some advances and newly coding techniques.
+
 # Features:
+
 1.INSERT BOOK
+
 2.SEARCH BOOK
+
 3.UPDATE BOOK
+
 4.DELECTE BOOK
+
 5.SHOW ALL BOOKS
+
 6.EXIT
 
 
